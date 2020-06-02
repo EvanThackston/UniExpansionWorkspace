@@ -1,0 +1,22 @@
+{
+  "_fv": 8,
+  "_type": "potion",
+  "definition": {
+    "name": "Draconic Protection",
+    "effectName": "Draconic Protection",
+    "icon": "dragonbuff.png",
+    "color": {
+      "value": -5815372,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": false,
+    "isBenefitical": true,
+    "registerPotionType": false,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onActiveTick": {
+      "name": "DragonScaleBuffOnPotionActiveTick"
+    }
+  }
+}

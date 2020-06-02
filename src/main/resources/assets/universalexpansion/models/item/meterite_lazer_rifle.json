@@ -1,0 +1,6 @@
+{
+  "parent": "universalexpansion:custom/meteoriterifle",
+  "textures": {
+    "0": "universalexpansion:blocks/laser_rifle"
+  }
+}

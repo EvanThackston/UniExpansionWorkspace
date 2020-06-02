@@ -1,0 +1,12 @@
+{
+  "group": "universalexpansion",
+  "type": "minecraft:blasting",
+  "experience": 10,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "universalexpansion:meteoriteitem"
+  },
+  "result": {
+    "item": "universalexpansion:meteoriteingot"
+  }
+}

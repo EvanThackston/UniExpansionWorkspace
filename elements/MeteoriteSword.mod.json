@@ -1,0 +1,37 @@
+{
+  "_fv": 8,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "1metesword",
+    "customModelName": "Normal",
+    "name": "Meteorite Sword",
+    "specialInfo": [
+      "§3Uncommon Sword",
+      "§fSets targets on fire. If they are already on fire it gives them wither."
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:UniversalSwords"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 8.0,
+    "usageCount": 6500,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Meteoriteingot"
+      }
+    ],
+    "onRightClickedInAir": {
+      "name": "MeteoriteSwordRightClickedInAir"
+    },
+    "onEntityHitWith": {
+      "name": "MeteoriteSwordLivingEntityIsHitWithTool"
+    }
+  }
+}

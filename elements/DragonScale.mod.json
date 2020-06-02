@@ -1,0 +1,60 @@
+{
+  "_fv": 8,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": false,
+    "textureHelmet": "",
+    "enableBody": true,
+    "textureBody": "dragchest",
+    "enableLeggings": true,
+    "textureLeggings": "draglegs",
+    "enableBoots": true,
+    "textureBoots": "dragboots",
+    "onBodyTick": {
+      "name": "DragonScaleBodyTickEvent"
+    },
+    "onLeggingsTick": {
+      "name": "DragonScaleBodyTickEvent"
+    },
+    "onBootsTick": {
+      "name": "DragonScaleBodyTickEvent"
+    },
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "dragonscale_",
+    "helmetName": "Dragon Scale Helmet",
+    "bodyName": "Dragon Scale Chestplate",
+    "leggingsName": "Dragon Scale Leggings",
+    "bootsName": "Dragon Scale Greaves",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 25,
+    "damageValueHelmet": 2,
+    "damageValueBody": 10,
+    "damageValueLeggings": 6,
+    "damageValueBoots": 3,
+    "enchantability": 15,
+    "toughness": 2.5,
+    "equipSound": {
+      "value": "CUSTOM:equipscale"
+    },
+    "repairItems": [
+      {
+        "value": "Items.ENDER_PEARL"
+      }
+    ]
+  }
+}

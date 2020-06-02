@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "universalexpansion:blocks/crystal",
+    "up": "universalexpansion:blocks/crystal",
+    "north": "universalexpansion:blocks/crystal",
+    "east": "universalexpansion:blocks/crystal",
+    "south": "universalexpansion:blocks/crystal",
+    "west": "universalexpansion:blocks/crystal",
+    "particle": "universalexpansion:blocks/crystal"
+  }
+}

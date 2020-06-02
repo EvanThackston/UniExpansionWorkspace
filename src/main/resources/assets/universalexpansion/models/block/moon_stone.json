@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "universalexpansion:blocks/moonstone",
+    "up": "universalexpansion:blocks/moonstone",
+    "north": "universalexpansion:blocks/moonstone",
+    "east": "universalexpansion:blocks/moonstone",
+    "south": "universalexpansion:blocks/moonstone",
+    "west": "universalexpansion:blocks/moonstone",
+    "particle": "universalexpansion:blocks/moonstone"
+  }
+}

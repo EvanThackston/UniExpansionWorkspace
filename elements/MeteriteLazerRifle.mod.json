@@ -1,0 +1,46 @@
+{
+  "_fv": 8,
+  "_type": "gun",
+  "definition": {
+    "renderType": 1,
+    "texture": "dragonscales",
+    "customModelName": "meteoriterifle:default",
+    "name": "Meterite Lazer Rifle",
+    "specialInfo": [
+      "8 Damage",
+      "No knockback",
+      "Has a 50% Chance not to use ammo."
+    ],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "Items.BLAZE_POWDER"
+    },
+    "shootConstantly": true,
+    "usageCount": 46000,
+    "actionSound": {
+      "value": "CUSTOM:machineshot"
+    },
+    "hasGlow": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "onRangedItemUsed": {
+      "name": "MeteriteLazerRifleRangedItemUsed"
+    },
+    "bulletPower": 1.0,
+    "bulletDamage": 0.0,
+    "bulletKnockback": 0,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "Blocks.EMERALD_BLOCK"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsEntity": {
+      "name": "MeteriteLazerRifleBulletHitsLivingEntity"
+    }
+  }
+}

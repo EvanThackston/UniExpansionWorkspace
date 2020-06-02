@@ -1,0 +1,6 @@
+{
+  "parent": "universalexpansion:custom/phoenix_blade",
+  "textures": {
+    "0": "universalexpansion:blocks/endsword"
+  }
+}

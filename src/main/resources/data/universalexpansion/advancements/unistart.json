@@ -1,0 +1,26 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "universalexpansion:unknown_element"
+    },
+    "title": {
+      "translate": "advancements.unistart.title"
+    },
+    "description": {
+      "translate": "advancements.unistart.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "unistart": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  }
+}

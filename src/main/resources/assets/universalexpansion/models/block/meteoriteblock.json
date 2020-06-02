@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "universalexpansion:blocks/eteorite_lock",
+    "up": "universalexpansion:blocks/eteorite_lock",
+    "north": "universalexpansion:blocks/eteorite_lock",
+    "east": "universalexpansion:blocks/eteorite_lock",
+    "south": "universalexpansion:blocks/eteorite_lock",
+    "west": "universalexpansion:blocks/eteorite_lock",
+    "particle": "universalexpansion:blocks/eteorite_lock"
+  }
+}

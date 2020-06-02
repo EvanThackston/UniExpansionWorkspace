@@ -1,0 +1,11 @@
+{
+  "_fv": 8,
+  "_type": "tab",
+  "definition": {
+    "name": "Universal Weapons",
+    "icon": {
+      "value": "CUSTOM:MeteoriteSword"
+    },
+    "showSearch": false
+  }
+}

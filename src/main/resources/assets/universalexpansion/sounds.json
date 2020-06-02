@@ -1,0 +1,65 @@
+{
+  "kakoyin": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "universalexpansion:kakoyin",
+        "stream": true
+      }
+    ]
+  },
+  "bete": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "universalexpansion:1",
+        "stream": true
+      }
+    ]
+  },
+  "machineshot": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "universalexpansion:gunshot",
+        "stream": false
+      }
+    ]
+  },
+  "starshoot": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "universalexpansion:starshoot",
+        "stream": false
+      }
+    ]
+  },
+  "starexplosion": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "universalexpansion:starexplosion",
+        "stream": false
+      }
+    ]
+  },
+  "equipscale": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "universalexpansion:sfx_multi_scaleequip-003_soundwave",
+        "stream": false
+      }
+    ]
+  },
+  "space": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "universalexpansion:terraria_space_theme_-_ravarcheon_remix",
+        "stream": true
+      }
+    ]
+  }
+}

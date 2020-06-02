@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "universalexpansion:blocks/tileplanks",
+    "particle": "universalexpansion:blocks/tileplanks"
+  }
+}

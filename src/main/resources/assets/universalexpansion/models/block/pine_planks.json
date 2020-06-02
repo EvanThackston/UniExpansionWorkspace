@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "universalexpansion:blocks/tileplanks",
+    "up": "universalexpansion:blocks/tileplanks",
+    "north": "universalexpansion:blocks/tileplanks",
+    "east": "universalexpansion:blocks/tileplanks",
+    "south": "universalexpansion:blocks/tileplanks",
+    "west": "universalexpansion:blocks/tileplanks",
+    "particle": "universalexpansion:blocks/tileplanks"
+  }
+}

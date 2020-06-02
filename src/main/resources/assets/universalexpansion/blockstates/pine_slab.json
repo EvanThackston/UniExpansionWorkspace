@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "universalexpansion:block/pine_slab"
+    },
+    "type=top": {
+      "model": "universalexpansion:block/pine_slab_top"
+    },
+    "type=double": {
+      "model": "universalexpansion:block/pine_slab_full"
+    }
+  }
+}

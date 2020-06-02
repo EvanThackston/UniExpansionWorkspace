@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+
+[[mods]]
+modId="universalexpansion"
+version="2020.1.0"
+displayName="Universal Expansion"
+credits="myself"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+authors="Evan Thackston"
+description='''
+A mod that adds alot of progression and stuff.
+'''
+
+[[dependencies.universalexpansion]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+

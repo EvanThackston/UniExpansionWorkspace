@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "universalexpansion:blocks/tileplanks",
+    "top": "universalexpansion:blocks/tileplanks",
+    "side": "universalexpansion:blocks/tileplanks"
+  }
+}
